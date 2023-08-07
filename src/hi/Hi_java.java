@@ -6,6 +6,9 @@ public class Hi_java {
 		System.out.println("Hello");
 		System.out.println("성공했네~~~ 기쁘네");
 		System.out.println("왜 안되냐 진짜 열받게하지마라");
+		
+		System.out.println("왜 안되냐 진짜 열받게하지마라222");
+		
 	}
 
 }
